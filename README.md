@@ -1,5 +1,5 @@
 # Image-segmentation-tool-overview
-Overview an image segmentation tool created for a studio project 2020.
+Overview of an image segmentation tool created for a studio project 2020.
 Readme created with https://github.com/rd123myb
 
 Project team members
